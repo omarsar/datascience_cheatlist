@@ -1,6 +1,5 @@
 #Data Science - Cheat List
-
-#Utility funciton to chenge the format of data into a more convenient and easy to use format
+#Utility funciton to change the format of data into a more convenient and easy to use format
 
 import pickle as pickle
 pickle_file = 'reviews.pickle'
